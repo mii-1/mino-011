@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mino  👋
 
-<!--
-**mino-011/mino-011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a technical program manager with 10+ years of experience leading cross-functional initiatives in AI and cloud.
+Currently expoloring AI agents in the M365 Copilot Platform Ecosystem.  
+I'm passionate about building scalable AI solutions that empower users, and love collaborating across teams and organizations.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- Product/Program Management | SaaS | Cross-functional Initiatives | GTM
+- Python, SQL, Azure OpenAI, Graph Connectors, PowerPlatform Connectors
+- GitHub Projects, Azure DevOps, LangChain, Semantic Kernel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Current Goals
+- Contribute to open-source Copilot extensibility
+- Deepen skills in MLOps & LLMOps
+
+## 📫 How to reach me
+- GitHub: [@mino-011](https://github.com/mino-011)
