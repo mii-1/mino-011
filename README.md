@@ -6,7 +6,7 @@ I'm passionate about building scalable AI solutions that empower users, and love
 
 ## 🔧 Skills & Tools
 - Product/Program Management | SaaS | Cross-functional Initiatives | GTM
-- Python, SQL, Azure OpenAI, Microsoft Graph API, PowerPlatform
+- Python, SQL, Azure OpenAI, Graph Connectors, Power Platform Connectors
 - GitHub Projects, Azure DevOps, LangChain, Semantic Kernel
 
 ## 📈 Current Goals
