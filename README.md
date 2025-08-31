@@ -1,4 +1,4 @@
-# Hi, I'm mino
+# Hi, I'm Mii
 
 I'm a technical program manager with 10+ years of experience leading cross-functional initiatives in AI and cloud.
 Currently expoloring AI agents in the M365 Copilot Platform Ecosystem.  
