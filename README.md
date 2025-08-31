@@ -14,4 +14,4 @@ I'm passionate about building scalable AI solutions that empower users, and love
 - Deepen skills in MLOps & LLMOps
 
 ## 📫 How to reach me
-- GitHub: [@mino-011](https://github.com/mino-011)
+- GitHub: [@mii-1](https://github.com/mii-1)
